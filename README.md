@@ -34,7 +34,7 @@ No seu time de desenvolvimento, você ficou responsável por implementar o códi
   
   * Este projeto é individual
   * São `X` dias de projeto
-  * Data para entrega final do projeto: `dd/mm/yyyy - 14:00h`
+  * Data para entrega final do projeto: `04/07/2022 14:10`
 
 </details>
 
@@ -45,9 +45,9 @@ No seu time de desenvolvimento, você ficou responsável por implementar o códi
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/sd-0x-project-playground-functions.git`
+  - Use o comando: `git clone git@github.com:tryber/sd-024-a-project-playground-functions.git`
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-0x-project-playground-functions`
+    - `cd sd-024-a-project-playground-functions`
 
   2. Instale as dependências
 
@@ -61,7 +61,7 @@ No seu time de desenvolvimento, você ficou responsável por implementar o códi
     - Exemplo: `git checkout main`
   - Crie uma branch à qual você vai submeter os `commits` de seu projeto
     - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    - Exemplo: `git checkout -b joaozinho-sd-0x-project-playground-functions`
+    - Exemplo: `git checkout -b joaozinho-sd-024-a-project-playground-functions`
 
   4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
 
@@ -78,17 +78,17 @@ No seu time de desenvolvimento, você ficou responsável por implementar o códi
 
   5. Adicione a sua branch com o novo `commit` ao repositório remoto
 
-  - Usando o exemplo anterior: `git push -u origin joaozinho-sd-0x-project-playground-functions`
+  - Usando o exemplo anterior: `git push -u origin joaozinho-sd-024-a-project-playground-functions`
 
   6. Crie um novo `Pull Request` _(PR)_
 
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-playground-functions/pulls)
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-024-a-project-playground-functions/pulls)
   - Clique no botão verde _"New pull request"_
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   - Adicione uma descrição para o Pull Request, um título que o identifique, e clique no botão verde "Create pull request". Crie da seguinte forma: `[JOAOZINHO] Projeto Playground Functions`
   - Adicione uma descrição para o Pull Request, um título claro que o identifique, e clique no botão verde _"Create pull request"_
   - **Não se preocupe em preencher mais nada por enquanto!**
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-playground-functions/pulls) e confira que o seu _Pull Request_ está criado
+  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-024-a-project-playground-functions/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
@@ -124,7 +124,7 @@ No seu time de desenvolvimento, você ficou responsável por implementar o códi
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário** ;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-024-a`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
