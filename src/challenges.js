@@ -79,7 +79,7 @@ function fizzBuzz(array) {
     } else if (iterator % 5 === 0) {
       novoArray.push('buzz');
     } else if (iterator % 3 === 0) {
-      novoArray.push('fizz')
+      novoArray.push('fizz');
     } else {
       novoArray.push('bug!');
     }
