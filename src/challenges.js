@@ -53,17 +53,17 @@ function highestCount(num) {
 }
 
 // Desafio 7
-function catAndMouse(cat1, cat2, mouse) {
+function catAndMouse(mouse, cat1, cat2) {
   // seu código aqui
   let unidades = '';
-  let gato1dist = Math.abs(cat1) + Math.abs(mouse);
-  let gato2dist = Math.abs(cat2) + Math.abs(mouse);
+  let gato1dist = cat1 - mouse;
+  let gato2dist = cat2 - mouse;
 
-  if (gato1dist > gato2dist) {
+  if (Math.abs(gato1dist) > Math.abs(gato2dist)) {
     unidades = 'cat2';
-  } else if (gato1dist < gato2dist) {
+  } else if (Math.abs(gato1dist) < Math.abs(gato2dist)) {
     unidades = 'cat1';
-  } else if (gato1dist === gato2dist) {
+  } else if (Math.abs(gato1dist) === Math.abs(gato2dist)) {
     unidades = 'os gatos trombam e o rato foge';
   }
   return unidades;
