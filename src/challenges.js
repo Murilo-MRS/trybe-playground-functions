@@ -45,7 +45,7 @@ function highestCount(num) {
   let maiorNum = Math.max.apply(null, num);
   let contNum = 0;
   for (let index = 0; index < num.length; index += 1) {
-    if(maiorNum === num[index]) {
+    if (maiorNum === num[index]) {
       contNum += 1;
     }
   }
